@@ -104,14 +104,6 @@ The training process generates the model and vectorizer files used by the applic
 - Sarcasm, mixed opinions, slang, and context-dependent language may affect predictions.
 - Confidence scores are model estimates and are not guaranteed to represent actual accuracy.
 
-## Attribution
-
-This project is based on the work in the original repository:
-
-https://github.com/bhatmmuntazir/Sentiment-analysis-nlp
-
-The original repository includes an MIT License. Please retain the original license and copyright notice, and clearly identify your modifications.
-
 ## Disclaimer
 
 This project is intended for educational and demonstration purposes. Predictions may be incorrect and should not be treated as definitive judgments of a person's opinion.
